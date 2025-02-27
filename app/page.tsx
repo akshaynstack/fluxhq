@@ -16,7 +16,7 @@ export default function Home() {
           <div className="flex items-center gap-4">
             <ModeToggle />
             <Link href="/signin">
-              <Button variant="outline" className="border-purple-200 hover:border-purple-300 dark:border-gray-700 dark:hover:border-gray-600">Sign In/ Login</Button>
+              <Button variant="outline" className="border-purple-200 hover:border-purple-300 dark:border-gray-700 dark:hover:border-gray-600">Sign In</Button>
             </Link>
           </div>
         </div>
