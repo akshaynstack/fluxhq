@@ -304,6 +304,7 @@ export default function Dashboard() {
                               <SelectItem value="1024x1024">1024×1024</SelectItem>
                               <SelectItem value="1024x1792">1024×1792</SelectItem>
                               <SelectItem value="768x1344">768x1344</SelectItem>
+                              <SelectItem value="1920x1080">1920x1080</SelectItem>
                             </SelectContent>
                           </Select>
                           <FormMessage />
