@@ -45,7 +45,7 @@ export async function POST(req: Request) {
     }
 
     // Call the AI image generation API
-    const response = await fetch("https://beta.vasarai.net/v1/images/generations", {
+    const response = await fetch("https://cablyai.com/v1/images/generations", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
